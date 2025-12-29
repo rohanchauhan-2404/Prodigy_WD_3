@@ -1,7 +1,5 @@
 # Prodigy_WD_3
-![Uploading Screenshot (22).png…]()
-
-
+<img width="1140" height="643" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/d1b9e264-d8f9-4d5c-b38e-a362ad017328" />
 
 Tic-Tac-Toe Web application
 
